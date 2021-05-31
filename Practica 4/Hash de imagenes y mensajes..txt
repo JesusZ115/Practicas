@@ -1,0 +1,9 @@
+sha256: '
+' 17b84bb63499d0a25cb2098da953ebbf2f7d597a5c03b69619d72de789e6844e
+sha256: '
+' 7605345d663396bb01c4bf15b21eb98a9df73e493000dd6a590b1ba8fda1bea3 (Este es el hash del codigo que use)
+sha256: '
+' 34dfde0dc0f3a2fab4c3ed0b19730547e7ab9c7a1272f28e4e8da3557b6c8f11
+
+
+Se confirma que ambos tienen el mismo hash
